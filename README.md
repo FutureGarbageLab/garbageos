@@ -1,1 +1,2 @@
-# garbageos
+# GarbageOS
+Welcome to GarbageOS!
